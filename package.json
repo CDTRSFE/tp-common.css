@@ -1,0 +1,16 @@
+{
+  "name": "tp-common.css",
+  "version": "1.0.1",
+  "description": "CSS resets and public style",
+  "main": "common.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CDTRSFE/tp-common.css.git"
+  },
+  "author": "zhaoqing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CDTRSFE/tp-common.css/issues"
+  },
+  "homepage": "https://github.com/CDTRSFE/tp-common.css#readme"
+}
