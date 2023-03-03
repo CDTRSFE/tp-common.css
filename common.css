@@ -67,7 +67,6 @@ input,
 textarea {
     box-sizing: content-box;
     background: 0 0;
-    font-family: 'Microsoft YaHei';
 }
 input {
     outline: none;
